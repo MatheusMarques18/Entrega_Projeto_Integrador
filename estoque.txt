@@ -1,0 +1,11 @@
+cimento;20
+Areia;10
+Brita;100
+Tabua;43
+Cal;22
+Prego;12
+tijolo;250
+Arame recozido;4
+Azulejo;58
+Rejunte marron;8
+Caixa acoplada ;2
