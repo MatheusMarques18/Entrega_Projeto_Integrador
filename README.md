@@ -37,7 +37,7 @@ Para utilizar o programa, siga estas etapas:
 ## Arquivos do projeto
 
 - `main.py`: contém o código principal e as funcionalidades do sistema.
-- `estoque.txt`: armazena os nomes dos materiais e suas respectivas quantidades.
+- `estoque.txt`: armazena os nomes dos materiais e suas respectivas quantidades adequadas.
 - `teste_ordenacao.py`: contém um exemplo utilizado para verificar a lógica de ordenação dos materiais.
 
 ## Considerações finais
