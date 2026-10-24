@@ -18,7 +18,7 @@ O sistema possui as seguintes funcionalidades:
 - **Busca de materiais:** permite procurar um material cadastrado.
 - **Armazenamento de dados:** utiliza um arquivo de texto para manter os registros salvos mesmo após o encerramento do programa.
 
-## Tecnologias utilizadas
+## Tecnologias que estão sendo utilizadas 
 
 - Python 3, para o desenvolvimento do sistema.
 - Visual Studio Code, como ambiente de programação.
