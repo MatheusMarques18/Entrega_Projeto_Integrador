@@ -9,3 +9,4 @@ Arame recozido;4
 Azulejo;58
 Rejunte marron;8
 Caixa acoplada ;2
+Lapis;16
