@@ -10,3 +10,5 @@ Azulejo;58
 Rejunte marron;8
 Caixa acoplada ;2
 Lapis;16
+conduite;2
+Caixa de passagem ;50
